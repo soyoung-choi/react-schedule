@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-schedule/static/css/main.fc2d5b88.css",
+    "main.js": "/react-schedule/static/js/main.d887da69.js",
+    "index.html": "/react-schedule/index.html",
+    "main.fc2d5b88.css.map": "/react-schedule/static/css/main.fc2d5b88.css.map",
+    "main.d887da69.js.map": "/react-schedule/static/js/main.d887da69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2d5b88.css",
+    "static/js/main.d887da69.js"
+  ]
+}
